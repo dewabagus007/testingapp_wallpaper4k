@@ -1,0 +1,116 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_app_ads":"ca-app-pub-3940256099942544/9257395921",
+      "interval_intertitial": 3,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+   
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Anime 1",
+      "image": "https://lh3.googleusercontent.com/RUg9YJuY2cPjh5znR5ZLqLJIBrm1CM2JuwCS1XP6g31ZDPa_NR--jR0JAum5qDbl2g5UKgBwM4SHSuyiWqjyd7VhBUI=s1280-w1280-h800"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Anime 2",
+      "image": "https://wallpapers.com/images/featured/kaneki-xsv5e4ut8mxmqae9.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Anime 3",
+      "image": "https://wallpapers.com/images/featured/anime-dbt18qjb7b1cstr1.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Anime 4",
+      "image": "https://cdn.theanimegallery.com/theanimegallery/3841478a-e7f4-4d46-a1c3-74749de7d2af-naruto-and-sasuke-wallpaper.webp"
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Anime 1",
+      "title":"Super Car 01",
+      "image":"https://mrwallpaper.com/images/hd/4k-anime-iphone-lady-on-flower-garden-a5pr8vn654qyazmb.jpg",
+      "lock":false
+    },
+    {
+      "id":2,
+      "name_category": "Anime 1",
+      "title":"Super Car 02",
+      "image":"https://i.pinimg.com/736x/33/b1/c9/33b1c9eeb1d27ac743d44a0e5e2b9139.jpg",
+      "lock":false
+    },
+    {
+      "id":3,
+      "name_category": "Anime 2",
+      "title":"Super Car 03",
+      "image":"https://images.hdqwalls.com/download/luffy-onepiece-anime-lp-1080x2400.jpg",
+      "lock":false
+    },
+    {
+      "id":4,
+      "name_category": "Anime 3",
+      "title":"Super Car 04",
+      "image":"https://i.pinimg.com/736x/a4/e9/a5/a4e9a555a2e3bf5b4c7336fced80e0ff.jpg",
+      "lock":false
+    },
+    {
+      "id":5,
+      "name_category": "Anime 4",
+      "title":"Super Car 05",
+      "image":"https://i.pinimg.com/originals/eb/97/c3/eb97c3fb74d3289e0336dd4441049267.jpg",
+      "lock":true
+    },
+    {
+      "id":6,
+      "name_category": "Anime 1",
+      "title":"Super Car 06",
+      "image":"https://i.pinimg.com/736x/eb/02/05/eb02056f4e63673280852e4fe3997a88.jpg",
+      "lock":false
+    },
+    {
+      "id":7,
+      "name_category": "Anime 2",
+      "title":"Cute Animal 1",
+      "image":"https://cdn.theanimegallery.com/theanimegallery/48d386f8-2b18-41ce-bd30-7e2a44487b1f-goku-4k-wallpaper.webp",
+      "lock":false
+    },
+    {
+      "id":8,
+      "name_category": "Anime 3",
+      "title":"Cute Animal 2",
+      "image":"https://wallpapers.com/images/hd/anya-spy-x-family-bh34d1yc440wah71.jpg",
+      "lock":false
+    },
+    {
+      "id":9,
+      "name_category": "Anime 4",
+      "title":"Cute Animal 3",
+      "image":"https://cdn.theanimegallery.com/theanimegallery/42b1ca57-8fc5-46fb-8cc9-3f06f9599c87-nezuko-demon-form-wallpaper.webp",
+      "lock":false
+    }
+  ]
+}
