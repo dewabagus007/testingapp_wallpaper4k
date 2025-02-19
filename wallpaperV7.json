@@ -61,7 +61,7 @@
       "name_category": "Anime 1",
       "title":"Super Car 02",
       "image":"https://i.pinimg.com/736x/33/b1/c9/33b1c9eeb1d27ac743d44a0e5e2b9139.jpg",
-      "lock":false
+      "lock":true
     },
     {
       "id":3,
@@ -89,7 +89,7 @@
       "name_category": "Anime 1",
       "title":"Super Car 06",
       "image":"https://i.pinimg.com/736x/eb/02/05/eb02056f4e63673280852e4fe3997a88.jpg",
-      "lock":false
+      "lock":true
     },
     {
       "id":7,
